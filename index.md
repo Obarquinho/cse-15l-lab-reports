@@ -9,7 +9,8 @@ Hello, world!
 ![Image](ConvertibleScionXb.PNG)
 >Squad pulling up in the xb with no top
 ![Image](ConvertibleScionXb.PNG)
->
+
+![Image](https://media.giphy.com/media/H6bVxI7rC01Ko/giphy.gif)
 - List
 - List
 - List
