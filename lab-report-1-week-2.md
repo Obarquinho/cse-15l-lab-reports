@@ -1,1 +1,1 @@
-![Image](AlpineFault.PNG)
+![Image](Alpinefault.PNG)
