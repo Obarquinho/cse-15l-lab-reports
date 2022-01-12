@@ -1,4 +1,5 @@
 Hello, world!
+[Lab Report 1](https://obarquinho.github.io/cse-15l-lab-reports/lab-report-1-week-2.html)
 *What the dog doing*
 **Doug**
 # DOUG
