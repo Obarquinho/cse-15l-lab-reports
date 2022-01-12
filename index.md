@@ -11,6 +11,10 @@ Hello, world!
 - List
 - List
 
+1. G
+2. 3
+3. ppf
+
 ---
 
 `system.out.println("Your mom")`
