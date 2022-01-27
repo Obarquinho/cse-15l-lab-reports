@@ -1,7 +1,7 @@
 [Home](https://obarquinho.github.io/cse-15l-lab-reports/)
 ## Preface
-My answers will not be in the proper format that the lab assignment asked for.
-There are no exact descriptions of the *failure inducing inputs* in my commits
+Some of my data will be unable to follow the format asked for the lab report, such as 
+there being no exact descriptions of the *failure inducing inputs* in my commits
 as mentioned in the prompt. I will try to fully explain any discrepencies of my commits and screenshots in relation to what was required by the prompt by giving the same level of detail commanded by the prompt. 
 <br/>
 Additionally, in my tests, I renamed the tests provided by Joe Politz in the
