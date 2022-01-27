@@ -1,3 +1,4 @@
+[Home](https://obarquinho.github.io/cse-15l-lab-reports/)
 ## Installing VScode
 Download [VScode](https://code.visualstudio.com/), follow the instructions given by the installer, and you should be greeted to a screen similar to this when VScode has finished installing. 
 ![image](report-1-s1.PNG)
