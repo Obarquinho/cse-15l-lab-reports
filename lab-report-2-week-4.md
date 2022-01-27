@@ -1,3 +1,4 @@
+[Home](https://obarquinho.github.io/cse-15l-lab-reports/)
 ## Preface
 My answers will not be in the proper format that the lab assignment asked for.
 There are no exact descriptions of the *failure inducing inputs* in my commits
