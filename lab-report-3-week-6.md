@@ -7,7 +7,7 @@ This was the option that I chose last week for week 5
 `Screenshot of public ssh key`
 
 ## FIX Public Key location in github profile
-![image[(report3-fix.PNG)<br/>
+![image](report3-fix.PNG)<br/>
 `Location of public key in my github profile`
 
 ## Private key
